@@ -3,3 +3,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def print_new_message():
+    print("HEJ..2.2")
